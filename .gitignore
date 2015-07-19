@@ -41,3 +41,10 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+
+src/packages
+bin
+obj
+src/Cognos.ReportDataService.v12.suo
+*.suo
